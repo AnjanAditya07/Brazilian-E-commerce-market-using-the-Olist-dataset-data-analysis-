@@ -1,4 +1,4 @@
-🚀 Brazil Market Insights: Revenue Growth & Fulfillment Excellence
+**🚀 Brazil Market Insights: Revenue Growth & Fulfillment Excellence
 
 Excited to share my latest data analytics project analyzing the Brazilian E-commerce market using the Olist dataset!
 
@@ -13,7 +13,7 @@ Excited to share my latest data analytics project analyzing the Brazilian E-comm
 
 Python (Data Cleaning & Feature Engineering)
 
-Pandas
+Pandas(Extensive python library for data cleaning)
 
 Tableau (Dashboard & Visualization)
 
@@ -26,6 +26,5 @@ This project demonstrates how raw transactional data can be transformed into act
 ✔ Category performance analysis
 ✔ Logistics efficiency improvement
 
-What additional KPIs would you include in this dashboard?
-
 #DataAnalytics #BusinessIntelligence #Tableau #Python #Ecommerce #DataVisualization #AnalyticsProject #SupplyChain #MachineLearning #PortfolioProject
+**
