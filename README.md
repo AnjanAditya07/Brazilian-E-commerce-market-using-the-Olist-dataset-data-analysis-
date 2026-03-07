@@ -2,6 +2,11 @@
 
 Excited to share my latest data analytics project analyzing the Brazilian E-commerce market using the Olist dataset!
 
+
+**DASHBOARD OVERVIEW**
+
+
+
 📊 **Key Highlights:**
 
 💰 Total Revenue: $15.42M
