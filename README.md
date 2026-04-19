@@ -5,7 +5,7 @@ Excited to share my latest data analytics project analyzing the Brazilian E-comm
 
 **DASHBOARD OVERVIEW**
 
-![Dashboard Preview](DASHBOARD3.png)
+![Dashboard Preview](DASHBOARD.png)
 
 📊 **Key Highlights:**
 
