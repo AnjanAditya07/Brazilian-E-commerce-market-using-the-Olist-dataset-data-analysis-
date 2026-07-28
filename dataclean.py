@@ -8,7 +8,7 @@ customers = pd.read_csv('olist_customers_dataset.csv')
 translation = pd.read_csv('product_category_name_translation.csv')
 
 # 2. DATA CLEANING
-# Convert all date columns to datetime objects
+# Convert all date columns to datetime object
 date_cols = ['order_purchase_timestamp', 'order_delivered_customer_date', 'order_estimated_delivery_date']
 for col in date_cols:
     orders[col] = pd.to_datetime(orders[col])
